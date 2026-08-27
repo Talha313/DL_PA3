@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea
+.idea/*
+./cmnist/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
